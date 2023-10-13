@@ -24,9 +24,10 @@ function About(){
             <a href="#link" target="blank">Download CV</a>
           </div>
         </div>
-      </div>
-    </section>
+        </div>
         <Footer />
+    </section>
+        
         </>
     )
 }

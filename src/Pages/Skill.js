@@ -39,13 +39,7 @@ function Skill(){
             <NavLink to="https://aistechx.com/" target="blank">Get Educate...</NavLink>
           </div>
           <div class="column right">
-            <div class="bars">
-              <div class="info">
-                <span>Python</span>
-                <span>90%</span>
-              </div>
-              <div class="line python"></div>
-            </div>
+            
             <div class="bars">
               <div class="info">
                 <span>HTML</span>
@@ -56,14 +50,14 @@ function Skill(){
             <div class="bars">
               <div class="info">
                 <span>CSS</span>
-                <span>60%</span>
+                <span>75%</span>
               </div>
               <div class="line css"></div>
             </div>
             <div class="bars">
               <div class="info">
                 <span>JavaScript</span>
-                <span>40%</span>
+                <span>60%</span>
               </div>
               <div class="line js"></div>
             </div>
@@ -76,7 +70,14 @@ function Skill(){
             </div>
             <div class="bars">
               <div class="info">
-                <span>Django</span>
+                <span>jQuery</span>
+                <span>60%</span>
+              </div>
+              <div class="line python"></div>
+            </div>
+            <div class="bars">
+              <div class="info">
+                <span>React.js</span>
                 <span>70%</span>
               </div>
               <div class="line django"></div>
@@ -84,9 +85,8 @@ function Skill(){
           </div>
         </div>
       </div>
+      <Footer />
     </section>
-  
-        <Footer />
         </>
     )
 }

@@ -85,11 +85,8 @@ function Contact(){
           </div>
             </div>
           </div>
-      
+          <Footer />
          </section>
-        {/* </div> */}
-    
-       <Footer />
      </>
     )
 }

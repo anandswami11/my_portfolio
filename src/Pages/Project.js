@@ -79,8 +79,8 @@ function Project(){
           </div>
         </div>
       </div>
+      <Footer />
     </section>
-        <Footer />
         </>
     )
 }
