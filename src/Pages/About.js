@@ -15,7 +15,7 @@ function About(){
             <img src={aboutimg2} className='about-opc' alt="Profile 626x626" />
           </div>
           <div class="column right">
-            <div class="text">I'm Anand and I'm a <span class="typing-2"></span></div>
+            <div class="text">I'm Anand and I'm a <span class="typing-2"> front end developer</span></div>
             <p>Seeking an entry-level opportunity with an esteemed organization where I can utilize my skills & enhance learning in the field of work. Capable of mastering new technologies.</p>
             <br/>
             <div class="text">Why Work With Me</div>
