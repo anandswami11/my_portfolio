@@ -28,7 +28,7 @@ function Contact(){
     <i class="fa-solid fa-location-dot"></i>
     <div class="info">
       <div class="head">&nbsp;Address</div>
-      <div class="sub-title">&nbsp;ABC, 123 Lane, India</div>
+      <div class="sub-title">&nbsp;Pilani, Jhunjhunu(Raj.)</div>
     </div>
   </div>
 
@@ -44,19 +44,19 @@ function Contact(){
     <i class="bi bi-translate"></i>
     <div class="info">
       <div class="head">Language Known</div>
-      <div class="sub-title">Hindi, English, Odia, Bengali</div>
+      <div class="sub-title">Hindi, English</div>
     </div>
   </div>
 </div>
-<div class="social-menu">
+{/* <div class="social-menu">
                 <ul>
-                  <li><a href="https://github.com/akashm47"><i class="fa-brands fa-github"></i></a></li>
-                  <li><a href="https://www.linkedin.com/in/akashmahapatra/"><i class="fa-brands fa-linkedin-in"></i></a></li>
-                  <li><a href="https://www.instagram.com/___kaaashx___/"><i class="fa-brands fa-instagram"></i></a></li>
-                  <li><a href="https://twitter.com/___kaaashx___/"><i class="fa-brands fa-twitter"></i></a></li>
-                  <li><a href="https://aistechx.com/" title="Get Educate with Us"><i class="fa-solid fa-graduation-cap"></i></a></li>
+                  <li><a href=""><i class="fa-brands fa-github"></i></a></li>
+                  <li><a href=""><i class="fa-brands fa-linkedin-in"></i></a></li>
+                  <li><a href=""><i class="fa-brands fa-instagram"></i></a></li>
+                  <li><a href=""><i class="fa-brands fa-twitter"></i></a></li>
+                  <li><a href="" title="Get Educate with Us"><i class="fa-solid fa-graduation-cap"></i></a></li>
                 </ul>
-              </div>
+              </div> */}
             </div>
 
             <div className="coulm-right">

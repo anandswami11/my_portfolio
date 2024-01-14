@@ -36,7 +36,7 @@ function Skill(){
             <p>
               I'm familiar & work on a daily basis with HTML, CSS, JavaScript, Bootstrap, React js and other modern frameworks.
             </p>
-            <NavLink to="https://aistechx.com/" target="blank">Get Educate...</NavLink>
+            <NavLink to="https://app.luminpdf.com/viewer/65a0ee3d45f9b36e3935aef2" target="blank">Get Educate...</NavLink>
           </div>
           <div class="column right">
             

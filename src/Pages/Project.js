@@ -21,7 +21,7 @@ function Project(){
             <div class="box">
             <img src={projectimg1} alt="project" />
               {/* <div class="text">Ecommerce</div> */}
-              <NavLink to='https://github.com/anandswami11/timer_countdown'>
+              <NavLink to='https://use-setstate-1.netlify.app/'>
           <div className='img-link text'>timer countdown</div></NavLink>
   
               <p>#Project Details:- Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
@@ -29,9 +29,9 @@ function Project(){
           </div>
           <div class="card">
             <div class="box">
-              <img src={projectimg2} alt="project" />
+             
               {/* <div class="text">Portfolio</div> */}
-              <a href='https://github.com/anandswami11/digital_clock_javascript.git'>
+              <a href='https://github.com/anandswami11/digital_clock_javascript.git'> <img src={projectimg2} alt="project" /><br/>
           <div className='img-link text'>digital clock</div></a>
         
               <p>#Project Details:- Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
@@ -41,7 +41,7 @@ function Project(){
             <div class="box">
               <img src={projectimg0} alt="project" />
               {/* <div class="text">Blog</div> */}
-              <a href='https://github.com/anandswami11/sunday-school-validation-form.git'>
+              <a href='https://github.com/anandswami11/artists-card.git'>
           <div className='img-link text'>form</div></a>
         
               <p>#Project Details:- Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
@@ -51,7 +51,7 @@ function Project(){
             <div class="box">
               <img src={projectimg3} alt="project" />
               {/* <div class="text">Messaging App</div> */}
-              <a href='https://github.com/anandswami11/project22.git'>
+              <a href='https://github.com/anandswami11/set_state.git'>
           <div className='img-link text'>project use-setstate</div></a>
        
               <p>#Project Details:- Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
@@ -71,8 +71,9 @@ function Project(){
             <div class="box">
               <img src={projectimg6} alt="project" />
               {/* <div class="text">Demo</div> */}
-              <a href='https://github.com/anandswami11/digital_clock_javascript.git'>
-          <div className='img-link text'>responsiv project</div></a>
+              <a href='https://github.com/anandswami11/anand_portfolio3.gitn
+              '>
+          <div className='img-link text'>responsiv</div></a>
         
               <p>#Project Details:- Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
             </div>

@@ -1,4 +1,5 @@
 import '../Pages/Style.css'
+import Alogo from "../Assets/Alogo.png"
 import { NavLink } from "react-router-dom"
 
 function Header(){
@@ -12,7 +13,7 @@ function Header(){
   <input type="checkbox" id="nav-check" />
   <div class="nav-header">
     <div class="nav-title">
-    <NavLink className='a' to="/"> Anand Swami</NavLink>
+    <NavLink className='a' to="/"> <img src={Alogo} alt='logoimg' /> </NavLink>
     </div>
   </div>
   <div class="nav-btn">

@@ -12,7 +12,7 @@ function About(){
         <h2 class="title">About Me</h2>
         <div class="about-content">
           <div class="column left">
-            <img src={aboutimg2} className='about-opc' alt="Profile 626x626" />
+            <img src={aboutimg2} className='about-opc' alt="Profile 626x626"/>
           </div>
           <div class="column right">
             <div class="text">I'm Anand and I'm a <span class="typing-2"> front end developer</span></div>
@@ -21,7 +21,7 @@ function About(){
             <div class="text">Why Work With Me</div>
             <p>I'm a great communicator & love to invest the necessary time to understand the customer's problem very well.</p>
   
-            <a href="#link" target="blank">Download CV</a>
+            <a href="https://app.luminpdf.com/viewer/65a0ee3d45f9b36e3935aef2" target="blank">Download CV</a>
           </div>
         </div>
         </div>
