@@ -71,7 +71,7 @@ function Project(){
             <div class="box">
               <img src={projectimg6} alt="project" />
               {/* <div class="text">Demo</div> */}
-              <a href='https://github.com/anandswami11/responsiv_website.git'>
+              <a href='https://anand-portfolio-react.netlify.app/'>
           <div className='img-link text'>responsiv website</div></a>
         
               <p>#Project Details:- Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
