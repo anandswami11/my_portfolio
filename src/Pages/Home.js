@@ -15,7 +15,7 @@ function Home(){
         <h1>Hello, <span></span></h1>
         <h1>My Name is <span></span></h1>
         <h1 class="section-title"> <span>Anand</span></h1>
-    <NavLink to="https://anand-react-portfolio.netlify.app/">   <div className="cta">Portfolio</div></NavLink> 
+    <NavLink to="https://github.com/anandswami11/my_portfolio.git">   <div className="cta">Portfolio</div></NavLink> 
       </div>
     </div>  
 <Footer />
